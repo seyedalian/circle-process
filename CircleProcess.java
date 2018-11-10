@@ -1,4 +1,8 @@
+/*
+#Made by s.seyedalian
+#gmail:seyedalian10@gmail.com
 
+*/
 
 import android.animation.ValueAnimator;
 import android.content.Context;
