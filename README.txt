@@ -1,2 +1,2 @@
 hi 
-a CircleProcess you can show your process (Android)
+CircleProcess in android that  you can show your process
